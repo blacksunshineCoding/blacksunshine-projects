@@ -49,13 +49,13 @@ An overview of all my current and planned projects and their progress, just as i
  - name: phpBlendmodes
  - language: php
  - description: A simple PHP based tool to perform blend modes on images like photoshop/etc does (based on the blend function from whirl)
- - progress: ~95%
+ - progress: 100%
 
 ### designifyForm
  - name: designifyForm
  - description: A collection of js/jquery and pure css tools to make your html forms look amazing
  - language: javascript/jquery/css
- - progress: ~5%
+ - progress: ~10%
 
 ## planned projects:
 
